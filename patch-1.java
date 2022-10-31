@@ -4,7 +4,7 @@
    3. Modifica el ejercicio 2 para que, indicando dos números n y m, diga que
       cantidad hay que sumarle a n para que sea múltiplo de m
  */
-package com.solomongo.ejercicio3_hoja3;
+package com.solo  mongo.ejercicio3_hoja3;
 import java.util.Scanner;
 public class Ejercicio3_Hoja3 {
     public static void main(String[] args) { 
